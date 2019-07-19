@@ -1,0 +1,24 @@
+{
+  "name": "Web422 a4",
+  "author": "Liu Wenxuan",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.2.0",
+    "axios": "^0.16.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.18.1",
+    "path": "^0.12.7",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14",
+    "winston": "^3.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
